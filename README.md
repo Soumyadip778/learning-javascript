@@ -1,2 +1,6 @@
-# learning-javascript
-Printed "Hello, World!" in the console.  Learned how to run JavaScript code in a browser and understand basic syntax.
+# JavaScript Learning Journey
+
+This is my very first step into JavaScript — starting with the classic:
+
+```js
+console.log("Hello, World!");
